@@ -1,0 +1,9 @@
+F:\Project\DM\GetKeyState\Main\Main\bin\Debug\Main.exe.config
+F:\Project\DM\GetKeyState\Main\Main\bin\Debug\Main.exe
+F:\Project\DM\GetKeyState\Main\Main\bin\Debug\Main.pdb
+F:\Project\DM\GetKeyState\Main\Main\obj\Debug\Interop.Dm.dll
+F:\Project\DM\GetKeyState\Main\Main\obj\Debug\Main.csproj.ResolveComReference.cache
+F:\Project\DM\GetKeyState\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+F:\Project\DM\GetKeyState\Main\Main\obj\Debug\Main.exe
+F:\Project\DM\GetKeyState\Main\Main\obj\Debug\Main.pdb
+F:\Project\DM\GetKeyState\Main\Main\obj\Debug\Main.csprojAssemblyReference.cache
